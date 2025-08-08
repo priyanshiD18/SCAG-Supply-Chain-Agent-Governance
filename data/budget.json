@@ -1,0 +1,23 @@
+{
+  "supply_chain": {
+    "allocated": 1000000,
+    "spent": 347500,
+    "remaining": 652500,
+    "period": "2025-Q3",
+    "owner": "Supply Chain Ops"
+  },
+  "engineering": {
+    "allocated": 500000,
+    "spent": 210000,
+    "remaining": 290000,
+    "period": "2025-Q3",
+    "owner": "Hardware Engineering"
+  },
+  "operations": {
+    "allocated": 300000,
+    "spent": 189000,
+    "remaining": 111000,
+    "period": "2025-Q3",
+    "owner": "Data Center Operations"
+  }
+}

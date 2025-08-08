@@ -1,0 +1,63 @@
+[
+  {
+    "name": "TechParts Inc",
+    "approved": true,
+    "rating": 4.7,
+    "lead_time_days": 7,
+    "unit_price": 42.50,
+    "items": ["GPU Module", "CPU Board", "Memory Module", "Power Supply Unit"],
+    "contact": "procurement@techparts.com",
+    "country": "USA"
+  },
+  {
+    "name": "Global Components Ltd",
+    "approved": true,
+    "rating": 4.5,
+    "lead_time_days": 10,
+    "unit_price": 38.00,
+    "items": ["GPU Module", "Network Card", "SSD Drive", "Cooling Fan"],
+    "contact": "orders@globalcomp.co.uk",
+    "country": "UK"
+  },
+  {
+    "name": "FastChip Supply Co",
+    "approved": true,
+    "rating": 4.2,
+    "lead_time_days": 5,
+    "unit_price": 45.00,
+    "items": ["CPU Board", "Memory Module", "Motherboard", "GPU Module"],
+    "contact": "supply@fastchip.io",
+    "country": "Singapore"
+  },
+  {
+    "name": "PrecisionHardware GmbH",
+    "approved": true,
+    "rating": 4.8,
+    "lead_time_days": 14,
+    "unit_price": 36.75,
+    "items": ["Cooling Fan", "Server Chassis", "Power Supply Unit", "Rack Unit"],
+    "contact": "orders@precisionhw.de",
+    "country": "Germany"
+  },
+  {
+    "name": "CoreElectronics Asia",
+    "approved": true,
+    "rating": 4.3,
+    "lead_time_days": 12,
+    "unit_price": 33.00,
+    "items": ["Network Card", "SSD Drive", "Memory Module", "CPU Board"],
+    "contact": "b2b@coreelec.cn",
+    "country": "China"
+  },
+  {
+    "name": "BudgetParts Wholesale",
+    "approved": false,
+    "rating": 3.1,
+    "lead_time_days": 3,
+    "unit_price": 28.00,
+    "items": ["GPU Module", "CPU Board", "Memory Module"],
+    "contact": "sales@budgetparts.net",
+    "country": "Unknown",
+    "notes": "Not approved — failed quality audit Q2 2025"
+  }
+]

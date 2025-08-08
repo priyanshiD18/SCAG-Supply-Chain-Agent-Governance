@@ -1,0 +1,58 @@
+{
+  "GPU Module": {
+    "quantity": 45,
+    "reorder_point": 100,
+    "max_stock": 2000,
+    "unit": "units",
+    "description": "High-performance GPU modules for ML accelerators"
+  },
+  "CPU Board": {
+    "quantity": 320,
+    "reorder_point": 200,
+    "max_stock": 3000,
+    "unit": "units",
+    "description": "Custom CPU boards for server racks"
+  },
+  "Memory Module": {
+    "quantity": 80,
+    "reorder_point": 150,
+    "max_stock": 5000,
+    "unit": "units",
+    "description": "128GB DDR5 ECC memory modules"
+  },
+  "Network Card": {
+    "quantity": 560,
+    "reorder_point": 100,
+    "max_stock": 2000,
+    "unit": "units",
+    "description": "100GbE network interface cards"
+  },
+  "SSD Drive": {
+    "quantity": 200,
+    "reorder_point": 250,
+    "max_stock": 4000,
+    "unit": "units",
+    "description": "4TB NVMe SSDs for storage servers"
+  },
+  "Power Supply Unit": {
+    "quantity": 90,
+    "reorder_point": 120,
+    "max_stock": 1500,
+    "unit": "units",
+    "description": "2000W redundant PSUs"
+  },
+  "Cooling Fan": {
+    "quantity": 1200,
+    "reorder_point": 300,
+    "max_stock": 5000,
+    "unit": "units",
+    "description": "High-speed server cooling fans"
+  },
+  "Motherboard": {
+    "quantity": 30,
+    "reorder_point": 80,
+    "max_stock": 1000,
+    "unit": "units",
+    "description": "Custom ATX motherboards for data center builds"
+  }
+}
