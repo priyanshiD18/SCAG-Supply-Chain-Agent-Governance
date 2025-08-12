@@ -197,3 +197,5 @@ class InventoryAgent(BaseAgent):
 # status labels: out / low / moderate / healthy based on reorder thresholds
 
 # update_stock: caps delivery at max_stock to prevent data entry errors
+
+# status labels: out / low / moderate / healthy based on reorder thresholds
