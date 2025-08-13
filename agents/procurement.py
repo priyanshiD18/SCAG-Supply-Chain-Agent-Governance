@@ -194,3 +194,5 @@ class ProcurementAgent(BaseAgent):
 # PO number format: PO-<ITEM>-<TIMESTAMP> for audit traceability
 
 # supplier selection: cheapest approved supplier, break ties on lead time
+
+# PO number format: PO-<ITEM>-<TIMESTAMP> for audit traceability
