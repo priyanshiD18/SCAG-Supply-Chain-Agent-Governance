@@ -211,3 +211,5 @@ if __name__ == "__main__":
     main()
 
 # build_system() returns component dict — shared by CLI runner and test fixtures
+
+# build_system() returns component dict — shared by CLI runner and test fixtures
