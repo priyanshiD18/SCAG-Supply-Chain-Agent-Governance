@@ -1,0 +1,38 @@
+# Governance Policy Rules
+# ========================
+# Edit these thresholds without touching any Python code.
+# Changes take effect on next run (or on hot-reload if the service is running).
+
+spending_limits:
+  # Agents can autonomously approve purchases below this amount
+  escalate_above: 50000
+
+  # Purchases above this amount are hard-blocked until a human approves
+  block_above: 200000
+
+approved_suppliers:
+  - "TechParts Inc"
+  - "Global Components Ltd"
+  - "FastChip Supply Co"
+  - "PrecisionHardware GmbH"
+  - "CoreElectronics Asia"
+  # Add new suppliers here. Removing a name will cause future orders to be blocked.
+
+inventory_thresholds:
+  # How many units can be ordered in a single PO before governance blocks it
+  max_single_order: 10000
+
+  # Delivery updates larger than this get flagged as possible data-entry errors
+  max_delivery_update: 50000
+
+budget_rules:
+  # Monthly spend ceiling per department (used for reporting, not hard blocking)
+  monthly_limit:
+    supply_chain: 1000000
+    engineering:   500000
+    operations:    300000
+
+  # Utilisation % above which the Budget Agent sends an early warning
+  early_warning_pct: 80
+
+# escalate_above: 50000 | block_above: 200000 | max_single_order: 10000
