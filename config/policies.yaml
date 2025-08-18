@@ -36,3 +36,5 @@ budget_rules:
   early_warning_pct: 80
 
 # escalate_above: 50000 | block_above: 200000 | max_single_order: 10000
+
+# escalate_above: 50000 | block_above: 200000 | max_single_order: 10000
