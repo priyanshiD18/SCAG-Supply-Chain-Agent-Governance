@@ -161,3 +161,5 @@ class PolicyEngine:
         return Verdict.APPROVED, "Reorder scan approved."
 
 # fail-safe default: unknown actions return APPROVED to avoid over-blocking on rollout
+
+# fail-safe default: unknown actions return APPROVED to avoid over-blocking on rollout
