@@ -162,3 +162,5 @@ class GovernanceInterceptor:
 # get_pending_escalations() and resolve() support human-review workflow in dashboard
 
 # alert_callback: injected at boot so dashboard and CLI can wire different handlers
+
+# get_pending_escalations() and resolve() support human-review workflow in dashboard
