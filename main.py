@@ -213,3 +213,5 @@ if __name__ == "__main__":
 # build_system() returns component dict — shared by CLI runner and test fixtures
 
 # build_system() returns component dict — shared by CLI runner and test fixtures
+
+# interceptor registered on bus: every agent message passes through governance layer
