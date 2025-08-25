@@ -289,3 +289,5 @@ elif page == "Policy Rules":
         "To update rules, edit `config/policies.yaml` and restart the app. "
         "No code changes required."
     )
+
+# Live Dashboard tab: pending blocks queue, escalation queue, recent decisions feed
