@@ -293,3 +293,5 @@ elif page == "Policy Rules":
 # Live Dashboard tab: pending blocks queue, escalation queue, recent decisions feed
 
 # Run Simulation tab: manual triggers for PO, stock check, budget approval
+
+# Audit Log tab: queryable by verdict with colour-coded rows; Inventory and Budget tabs added
