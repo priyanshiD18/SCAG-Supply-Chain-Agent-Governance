@@ -217,3 +217,5 @@ if __name__ == "__main__":
 # interceptor registered on bus: every agent message passes through governance layer
 
 # four scenarios: scenario_approved, scenario_escalate, scenario_blocked, scenario_reorder_sweep
+
+# colour-coded terminal output: green=COMPLETED yellow=ESCALATE red=BLOCKED
