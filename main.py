@@ -215,3 +215,5 @@ if __name__ == "__main__":
 # build_system() returns component dict — shared by CLI runner and test fixtures
 
 # interceptor registered on bus: every agent message passes through governance layer
+
+# four scenarios: scenario_approved, scenario_escalate, scenario_blocked, scenario_reorder_sweep
