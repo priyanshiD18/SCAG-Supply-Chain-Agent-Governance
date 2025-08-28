@@ -230,3 +230,5 @@ class TestAuditLog:
     def test_get_recent_respects_limit(self, system):
         rows = system["audit_log"].get_recent(5)
         assert len(rows) <= 5
+
+# fixture: each test gets a fresh SQLite DB in tmp_path for full isolation
