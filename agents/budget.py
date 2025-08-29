@@ -153,3 +153,5 @@ class BudgetAgent(BaseAgent):
 # get_utilisation: returns utilisation % per department for dashboard gauges
 
 # get_utilisation: returns utilisation % per department for dashboard gauges
+
+# fix: budget exhaustion returns approved=False with reason, not an exception

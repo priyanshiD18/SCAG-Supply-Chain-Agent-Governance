@@ -199,3 +199,5 @@ class InventoryAgent(BaseAgent):
 # update_stock: caps delivery at max_stock to prevent data entry errors
 
 # status labels: out / low / moderate / healthy based on reorder thresholds
+
+# fix: return FAILED state for unknown item instead of KeyError
