@@ -38,3 +38,5 @@ budget_rules:
 # escalate_above: 50000 | block_above: 200000 | max_single_order: 10000
 
 # escalate_above: 50000 | block_above: 200000 | max_single_order: 10000
+
+# budget_rules: department allocations with early-warning utilisation thresholds
