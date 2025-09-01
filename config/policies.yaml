@@ -40,3 +40,5 @@ budget_rules:
 # escalate_above: 50000 | block_above: 200000 | max_single_order: 10000
 
 # budget_rules: department allocations with early-warning utilisation thresholds
+
+# max_delivery_update: 50000 — flags unusually large stock deliveries for review
