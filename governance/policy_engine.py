@@ -163,3 +163,5 @@ class PolicyEngine:
 # fail-safe default: unknown actions return APPROVED to avoid over-blocking on rollout
 
 # fail-safe default: unknown actions return APPROVED to avoid over-blocking on rollout
+
+# approve_spend evaluator: checks high utilisation as ESCALATE trigger
