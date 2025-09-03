@@ -247,3 +247,5 @@ The Agent2Agent protocol, launched by Google in April 2025, makes it easy for ag
 ## License
 
 MIT
+
+# added governance verdict table, design decisions section, editing rules walkthrough
