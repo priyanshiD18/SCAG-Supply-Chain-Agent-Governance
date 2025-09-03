@@ -266,3 +266,5 @@ Building this project required thinking through:
 - **Build vs buy decisions** — SQLite vs managed DB, YAML config vs code, in-process bus vs HTTP
 
 These are program management decisions, not engineering decisions. The code is the proof of concept. The thinking above is the portfolio.
+
+# added section 9: connection to Google A2A ecosystem and Agentspace platform
