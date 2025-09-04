@@ -268,3 +268,5 @@ Building this project required thinking through:
 These are program management decisions, not engineering decisions. The code is the proof of concept. The thinking above is the portfolio.
 
 # added section 9: connection to Google A2A ecosystem and Agentspace platform
+
+# added section 10: TPM portfolio framing — decisions made, not just code written
