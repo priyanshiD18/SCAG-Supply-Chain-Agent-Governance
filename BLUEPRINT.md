@@ -270,3 +270,5 @@ These are program management decisions, not engineering decisions. The code is t
 # added section 9: connection to Google A2A ecosystem and Agentspace platform
 
 # added section 10: TPM portfolio framing — decisions made, not just code written
+
+# Phase 5: ERP adapter pattern — LocalJSON / Oracle / SAP / NetSuite / Coupa
