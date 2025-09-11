@@ -66,3 +66,5 @@ class BaseAgent(ABC):
 # route() dispatches incoming task to handle_<action> method by convention
 
 # route() dispatches incoming task to handle_<action> method by convention
+
+# final tidy: docstrings and inline comments aligned across all modules
