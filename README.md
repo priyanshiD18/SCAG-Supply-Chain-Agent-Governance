@@ -247,9 +247,3 @@ The Agent2Agent protocol, launched by Google in April 2025, makes it easy for ag
 ## License
 
 MIT
-
-# added governance verdict table, design decisions section, editing rules walkthrough
-
-# niche section: governance layer is the core — interceptor pattern diagram added
-
-# personal use section: ERP adapter table mapping each JSON file to real platforms
